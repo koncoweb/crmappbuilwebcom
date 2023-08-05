@@ -1,6 +1,6 @@
 # CRM App
 
-This project was generated with [App Builder Code Gen](https://www.infragistics.com/products/appbuilder).
+This project was generated with [Koncoweb](https://koncoweb.my.id).
 
 ## Development server
 
